@@ -1,0 +1,12 @@
+.kartu-profil {
+    width: 150px;
+    background-color: lightyellow;
+    padding: 15px;
+    border: 1px solid red;
+}
+#kotak-pesan{
+    height: 150px;
+    background-color: lightyellow;
+    margin: 15px ;
+    border: 1px solid red;
+}
